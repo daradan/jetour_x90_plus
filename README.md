@@ -17,4 +17,5 @@
 - MacroDroid
 
 А также скрипт пооддерживает установка всех приложении автоматически. Более того, можно сразу установить Android Auto и его же скриптом запустить
-(https://github.com/daradan/img/blob/master/jetour_x90_plus.png)
+
+[скриншот](https://github.com/daradan/img/blob/master/jetour_x90_plus.png)
