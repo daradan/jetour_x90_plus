@@ -18,4 +18,4 @@
 
 А также скрипт пооддерживает установка всех приложении автоматически. Более того, можно сразу установить Android Auto и его же скриптом запустить
 
-[скриншот](https://github.com/daradan/img/blob/master/jetour_x90_plus.png)
+![](https://github.com/daradan/img/blob/master/jetour_x90_plus.png?raw=true)
